@@ -15619,5 +15619,100 @@
                 "new_value": "1.1.5"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-18T21:17:59.861282+00:00Z",
+        "changes": [
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2065551",
+                "new_value": "2066838"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2065405",
+                "new_value": "2066827"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.itrocket.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2065489",
+                "new_value": "2066834"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.itrocket.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2065508",
+                "new_value": "2066834"
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.itrocket.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2065511",
+                "new_value": "2066834"
+            }
+        ]
     }
 ]
