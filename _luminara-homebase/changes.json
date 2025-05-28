@@ -28253,5 +28253,73 @@
                 "new_value": "2179698"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T01:47:21.317760+00:00Z",
+        "changes": [
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2007044",
+                "new_value": "2180382"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.21.0"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.EmberStake.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.EmberStake.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
