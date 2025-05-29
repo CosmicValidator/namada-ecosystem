@@ -30912,5 +30912,37 @@
                 "new_value": null
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-29T13:32:08.456097+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.21.0"
+            }
+        ]
     }
 ]
