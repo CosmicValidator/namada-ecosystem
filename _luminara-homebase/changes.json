@@ -7597,5 +7597,109 @@
                 "new_value": "1.24.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-11T14:20:19.946974+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2362212",
+                "new_value": "2362307"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.max-02.service.indexer.url",
+                "type": "modified",
+                "old_value": "https://indexer.namada.tududes.com:443",
+                "new_value": "https://index2-namada.5elementsnodes.com"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.max-02.service.rpc.url",
+                "type": "modified",
+                "old_value": "https://rpc.namada.tududes.com:443",
+                "new_value": "https://rpc-namada.5elementsnodes.com"
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.max-02.service.masp.url",
+                "type": "modified",
+                "old_value": "https://masp.namada.tududes.com:443",
+                "new_value": "https://masp2-namada.5elementsnodes.com"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2362204",
+                "new_value": "2362307"
+            },
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Heliax.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2362203",
+                "new_value": "2362307"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2362203",
+                "new_value": "2362307"
+            }
+        ]
     }
 ]
