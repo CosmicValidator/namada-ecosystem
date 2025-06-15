@@ -12844,5 +12844,19 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-15T13:44:24.836403+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.1.0",
+                "new_value": "3.0.2"
+            }
+        ]
     }
 ]
