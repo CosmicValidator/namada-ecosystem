@@ -13259,5 +13259,19 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-15T14:41:27.506088+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "3.1.0"
+            }
+        ]
     }
 ]
