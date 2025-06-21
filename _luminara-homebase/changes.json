@@ -28596,5 +28596,37 @@
                 "new_value": "2481151"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-21T03:14:34.968961+00:00Z",
+        "changes": [
+            {
+                "team": "max-02",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.max-02.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            },
+            {
+                "team": "papadritta",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            },
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.28.1",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
