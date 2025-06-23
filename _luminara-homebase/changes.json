@@ -31839,5 +31839,19 @@
                 "new_value": "2513702"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-23T16:28:54.540880+00:00Z",
+        "changes": [
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Sproutstake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
