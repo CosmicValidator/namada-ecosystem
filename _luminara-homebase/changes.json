@@ -32260,5 +32260,37 @@
                 "new_value": "0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-25T14:22:28.356607+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.0",
+                "new_value": "3.3.1"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.0",
+                "new_value": "3.3.1"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.0",
+                "new_value": "3.3.1"
+            }
+        ]
     }
 ]
