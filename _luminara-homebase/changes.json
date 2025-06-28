@@ -33769,5 +33769,19 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-28T08:47:11.265316+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.28.3"
+            }
+        ]
     }
 ]
