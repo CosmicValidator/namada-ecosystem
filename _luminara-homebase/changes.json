@@ -54218,5 +54218,19 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T07:26:46.337017+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.interface.version",
+                "type": "modified",
+                "old_value": "1.31.1",
+                "new_value": "1.31.2"
+            }
+        ]
     }
 ]
