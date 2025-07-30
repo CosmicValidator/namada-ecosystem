@@ -54721,5 +54721,19 @@
                 "new_value": "1.31.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T17:23:12.143309+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.31.1",
+                "new_value": "1.31.4"
+            }
+        ]
     }
 ]
