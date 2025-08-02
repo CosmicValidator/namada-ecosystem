@@ -56395,5 +56395,28 @@
                 "new_value": "101.1.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-08-02T08:28:36.630546+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "3005594",
+                "new_value": "3006129"
+            }
+        ]
     }
 ]
