@@ -74090,5 +74090,37 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-09-04T02:56:06.281832+00:00Z",
+        "changes": [
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
