@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-14T01:15:24.452796+00:00Z",
-    "script_end_time": "2026-09-14T01:27:31.137102+00:00Z",
+    "script_start_time": "2026-09-14T06:28:31.384151+00:00Z",
+    "script_end_time": "2026-09-14T06:40:40.745432+00:00Z",
     "reference_latest_block_height": "7914152",
     "required_versions": {
         "interface": "1.20.0-hotfix2",
@@ -165,7 +165,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7417719",
+                            "latest_block_height": "7417728",
                             "sync_state": "sync_nok"
                         },
                         {
@@ -184,7 +184,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7793912",
+                            "latest_block_height": "7795443",
                             "sync_state": "sync_nok"
                         }
                     ]
